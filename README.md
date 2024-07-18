@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lonylitical
 - 👀 I’m interested in coding(python,c,c++,java) and web-development
-- 🌱 I’m currently pursuing B.tech
+- 🌱 I’m currently working as Technical Consultant in Ernt & Young-GDS
 - 💞️ I’m looking to collaborate on start ups and innovative and helpful projects
 - 📫 you can reach me through my gmail address(salonyguptaat98@gmail.com)
 
